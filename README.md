@@ -9,4 +9,3 @@ This is a french application (so is the main language). This will be fixed for v
 
 ## Issues
 To submit any new feature or any bug, go to [this](https://github.com/Azerty29242/Recettes/issues) page.
-
